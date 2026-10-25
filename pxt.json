@@ -1,0 +1,57 @@
+{
+    "name": "One Size Fits All",
+    "version": "1.0.0",
+    "description": "A short puzzle game where you have to shrink and grow to get to the end.",
+    "dependencies": {
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "browser-events": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.1",
+        "tag": "v4.1.27",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/401d844a09f01717919937e218e14e9cea9fa83a",
+        "target": "4.1.27",
+        "pxt": "13.1.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FCFBFC",
+        "#905677",
+        "#DB9692",
+        "#DCAF91",
+        "#DDD893",
+        "#96DB91",
+        "#009C89",
+        "#92B5DB",
+        "#5D719A",
+        "#415E9B",
+        "#9196DB",
+        "#B991DC",
+        "#D8D4D6",
+        "#514D4A",
+        "#2D282C"
+    ]
+}
