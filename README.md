@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/scriptscraper/One-Size-Fits-All** and click import
+* paste **https://github.com/ScriptScraper/one-size-fits-all** and click import
 
 #### Metadata (used for search, rendering)
 
