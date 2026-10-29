@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://scriptscraper.github.io/One-Size-Fits-All/]([https://scriptscraper.github.io/One-Size-Fits-All/](https://scriptscraper.github.io/one-size-fits-all/))
+> Open this page at [https://scriptscraper.github.io/One-Size-Fits-All/](https://scriptscraper.github.io/one-size-fits-all/)
 
 ## Use as Extension
 
